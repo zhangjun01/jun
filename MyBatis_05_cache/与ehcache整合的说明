@@ -1,0 +1,1 @@
+myBatis整合ehcache时，导入ehcache-core-2.6.8.jar包时，也要导入支持包slf4j-api-1.6.1.jap和slf4j-log4j12-1.6.2.jar
